@@ -1,4 +1,4 @@
-# 3CTnet
+# 3CTnet Contrastive Cross-Modal Clustering with Twin Network
 torch==1.8.0+cu111
 
 numpy==1.21.6
